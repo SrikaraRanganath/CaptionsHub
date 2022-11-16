@@ -3,7 +3,8 @@ Captions Hub is a fully responsive web application that connects end users with 
 It is built using Bootstrap,HTML,CSS and PHP
 
 ## Preview
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/75805927/202193209-e5ff477d-ef95-4114-b133-16133f1e729c.gif)
+
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/75805927/202193565-7559869f-4b01-495e-b053-1032adab26d0.gif)
 
 
 ## Contact
